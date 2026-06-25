@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-groq
+python-dotenv
+langchain-community
+flask
+pymongo 
+python-dateutil
+flask-cors
+pydantic
+sentence-transformers
+chromadb

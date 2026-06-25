@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+.venv/
+
+# Frontend
+frontend/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
