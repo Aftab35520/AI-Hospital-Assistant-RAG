@@ -1,21 +1,23 @@
 import chromadb
-from sentence_transformers import SentenceTransformer
+
 import os
 path=os.path.abspath("./VectorStore")
 client = chromadb.PersistentClient(path=path)
 collection = client.get_or_create_collection("hospitalvectors")
 from langchain.tools import tool
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+from fastembed import TextEmbedding
 
-@tool
+embedding_model = TextEmbedding()
+embeddings = list(embedding_model.embed(["Book an appointment"]))
+
 def retrieve_hospital_info(query: str) -> str:
     """Retrieve hospital information from the vector database."""
 
-    vector = model.encode(query).tolist()
+    embeddings = list(embedding_model.embed([query]))
 
     results = collection.query(
-        query_embeddings=[vector],
+        query_embeddings=embeddings,
         n_results=3,
     )
 
@@ -26,3 +28,4 @@ def retrieve_hospital_info(query: str) -> str:
 
     return 'query: ',query, "context: ","\n\n".join(documents)
 
+print(retrieve_hospital_info('what is hospital name'))

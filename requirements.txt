@@ -8,6 +8,6 @@ pymongo
 python-dateutil
 flask-cors
 pydantic
-sentence-transformers
 chromadb
 gunicorn
+fastembed
