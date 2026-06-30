@@ -11,3 +11,4 @@ pydantic
 chromadb
 gunicorn
 fastembed
+langchain_openai
