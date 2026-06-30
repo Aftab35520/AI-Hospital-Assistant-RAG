@@ -109,7 +109,8 @@ Never:
 
 
 FormatterLLM = Chat_Model.with_structured_output(
-    ChatResponseFormat
+    ChatResponseFormat,
+    method="json_mode"
 )
 
 
