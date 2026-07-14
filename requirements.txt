@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain-community
+chromadb
+sentence-transformers
+langchain_openai
+pymongo 
+rapidfuzz
+flask
+python-dotenv

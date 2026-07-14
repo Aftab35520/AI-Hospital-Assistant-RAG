@@ -1,0 +1,524 @@
+# Sunrise Multispeciality Hospital
+
+## Overview
+
+Sunrise Multispeciality Hospital is a modern tertiary-care healthcare institution located in Lucknow, Uttar Pradesh, India. Established in 2012, the hospital was founded with the vision of providing affordable, patient-centered, and technology-driven healthcare services. Over the years, Sunrise Multispeciality Hospital has become one of the region's trusted healthcare providers by combining experienced medical professionals, advanced diagnostic facilities, and compassionate patient care.
+
+The hospital operates 24 hours a day, 7 days a week, providing emergency care, outpatient consultations, inpatient services, diagnostic testing, surgical procedures, rehabilitation, preventive healthcare, and telemedicine consultations. It serves patients from Lucknow and neighboring districts, including Barabanki, Sitapur, Unnao, Rae Bareli, Hardoi, and Kanpur.
+
+The hospital is committed to delivering high-quality healthcare while maintaining transparency, ethical medical practices, patient safety, and continuous innovation.
+
+---
+
+# Hospital Information
+
+**Hospital Name:** Sunrise Multispeciality Hospital
+
+**Hospital Type:** Private Multispeciality Hospital
+
+**Established:** 2012
+
+**Location:** Gomti Nagar, Lucknow, Uttar Pradesh, India
+
+**Address:**
+
+Sector 5, Gomti Nagar Extension
+
+Lucknow, Uttar Pradesh – 226010
+
+India
+
+**Phone:**
+
++91-522-4001000
+
+**Emergency Number:**
+
++91-522-1088
+
+**Email:**
+
+[info@sunrisehospital.demo](mailto:info@sunrisehospital.demo)
+
+[appointments@sunrisehospital.demo](mailto:appointments@sunrisehospital.demo)
+
+**Website:**
+
+[www.sunrisehospital.demo](http://www.sunrisehospital.demo)
+
+---
+
+# Working Hours
+
+Outpatient Department (OPD)
+
+Monday to Saturday
+
+9:00 AM – 7:00 PM
+
+Sunday
+
+9:00 AM – 2:00 PM
+
+Emergency Department
+
+Open 24×7
+
+Laboratory
+
+24×7
+
+Radiology
+
+24×7
+
+Pharmacy
+
+Open 24×7
+
+---
+
+# Mission
+
+To provide affordable, accessible, evidence-based, and compassionate healthcare using modern medical technology while placing patients and their families at the center of every healthcare decision.
+
+---
+
+# Vision
+
+To become one of North India's most trusted healthcare institutions by delivering world-class clinical excellence, ethical medical practice, and continuous innovation in patient care.
+
+---
+
+# Core Values
+
+* Patient First
+* Compassion
+* Integrity
+* Excellence
+* Innovation
+* Teamwork
+* Transparency
+* Respect
+* Accountability
+* Continuous Learning
+
+---
+
+# Departments
+
+The hospital provides healthcare services across multiple specialties.
+
+## General Medicine
+
+The Department of General Medicine diagnoses and treats common illnesses including fever, viral infections, diabetes, hypertension, thyroid disorders, infections, anemia, asthma, and chronic medical conditions.
+
+Common symptoms treated include:
+
+* Fever
+* Body ache
+* Weakness
+* Fatigue
+* Headache
+* Viral infections
+* Seasonal flu
+* Dengue
+* Malaria
+* Typhoid
+* High blood pressure
+* Diabetes management
+
+---
+
+## Cardiology
+
+The Cardiology Department specializes in heart-related diseases.
+
+Conditions treated:
+
+* Heart attack
+* Chest pain
+* Hypertension
+* Heart failure
+* Arrhythmia
+* Coronary artery disease
+* High cholesterol
+* Valve disorders
+
+Facilities:
+
+* ECG
+* Echocardiography
+* TMT
+* Holter Monitoring
+* Cardiac ICU
+
+---
+
+## Orthopedics
+
+Treats disorders involving bones, joints, muscles, and ligaments.
+
+Conditions:
+
+* Knee pain
+* Back pain
+* Fractures
+* Arthritis
+* Joint replacement
+* Sports injuries
+* Spine disorders
+
+Services:
+
+* Knee replacement
+* Hip replacement
+* Arthroscopy
+* Trauma surgery
+
+---
+
+## Neurology
+
+Treats diseases affecting the nervous system.
+
+Conditions:
+
+* Migraine
+* Stroke
+* Epilepsy
+* Parkinson's disease
+* Multiple sclerosis
+* Neuropathy
+* Memory disorders
+
+---
+
+## Dermatology
+
+Treats skin, hair, and nail disorders.
+
+Conditions:
+
+* Acne
+* Psoriasis
+* Eczema
+* Skin allergy
+* Hair fall
+* Pigmentation
+* Fungal infections
+
+---
+
+## Pediatrics
+
+Provides healthcare services for infants, children, and adolescents.
+
+Services include:
+
+* Vaccination
+* Growth monitoring
+* Child nutrition
+* Fever management
+* Childhood infections
+* Asthma care
+
+---
+
+## Gynecology and Obstetrics
+
+Services:
+
+* Pregnancy care
+* High-risk pregnancy
+* Infertility evaluation
+* Menstrual disorders
+* PCOS management
+* Normal delivery
+* Caesarean section
+
+---
+
+## ENT
+
+Treats:
+
+* Ear infections
+* Hearing loss
+* Sinusitis
+* Tonsillitis
+* Vertigo
+* Nasal allergy
+
+---
+
+## Ophthalmology
+
+Treats:
+
+* Cataract
+* Glaucoma
+* Diabetic retinopathy
+* Refractive errors
+* Dry eye disease
+
+---
+
+## Psychiatry
+
+Services include:
+
+* Depression
+* Anxiety
+* OCD
+* Bipolar disorder
+* Stress management
+* Sleep disorders
+
+---
+
+## Dentistry
+
+Provides:
+
+* Root canal treatment
+* Tooth extraction
+* Braces
+* Dental implants
+* Teeth whitening
+* Pediatric dentistry
+
+---
+
+# Diagnostic Facilities
+
+The hospital offers advanced diagnostic services.
+
+Laboratory
+
+* CBC
+* Blood Sugar
+* HbA1c
+* Liver Function Test
+* Kidney Function Test
+* Lipid Profile
+* Thyroid Profile
+* Vitamin D
+* Vitamin B12
+* Urine Analysis
+* Culture Tests
+
+Radiology
+
+* X-Ray
+* Ultrasound
+* CT Scan
+* MRI
+* Mammography
+* Color Doppler
+
+Cardiac Diagnostics
+
+* ECG
+* Echo
+* Holter
+* TMT
+
+---
+
+# Emergency Services
+
+Emergency services are available 24 hours a day.
+
+The emergency department handles:
+
+* Heart attack
+* Stroke
+* Trauma
+* Accidents
+* Poisoning
+* Burns
+* Breathing difficulty
+* Severe infections
+* Fractures
+
+Ambulance response time within city limits is typically 15–25 minutes depending on traffic conditions.
+
+---
+
+# Pharmacy
+
+The in-house pharmacy is open 24×7.
+
+Services include:
+
+* Prescription medicines
+* Generic medicines
+* Surgical supplies
+* Medical devices
+* Home delivery (within selected areas)
+
+---
+
+# Appointment Policy
+
+Appointments may be booked:
+
+* Online
+* Telephone
+* Hospital reception
+* AI Appointment Assistant
+
+Patients should arrive at least 15 minutes before the scheduled appointment.
+
+Carry:
+
+* Patient ID
+* Previous medical records
+* Prescriptions
+* Insurance documents (if applicable)
+
+---
+
+# Cancellation Policy
+
+Appointments may be cancelled up to 2 hours before the scheduled consultation.
+
+Patients can cancel through:
+
+* Reception
+* Telephone
+* AI Assistant
+
+---
+
+# Rescheduling Policy
+
+Appointments may be rescheduled based on doctor availability.
+
+A new time slot will be offered if the selected slot is unavailable.
+
+---
+
+# Visiting Hours
+
+General Ward
+
+10:00 AM – 12:00 PM
+
+5:00 PM – 7:00 PM
+
+ICU
+
+Only immediate family members are allowed.
+
+Maximum two visitors per patient.
+
+---
+
+# Health Checkup Packages
+
+Available packages include:
+
+* Basic Health Checkup
+* Executive Health Checkup
+* Cardiac Health Package
+* Diabetes Screening
+* Women's Wellness Package
+* Senior Citizen Package
+
+---
+
+# Insurance
+
+The hospital accepts most major cashless insurance providers.
+
+Patients should verify coverage before admission.
+
+---
+
+# Patient Guidelines
+
+Patients should:
+
+* Carry a valid government-issued ID.
+* Bring previous medical records.
+* Follow fasting instructions before diagnostic tests if advised.
+* Inform doctors about allergies and current medications.
+* Arrive on time for appointments.
+
+---
+
+# Infection Control
+
+The hospital follows strict infection control measures:
+
+* Regular sanitization
+* Hand hygiene protocols
+* Sterilized operation theatres
+* Biomedical waste management
+* Isolation rooms for infectious diseases
+
+---
+
+# AI Appointment Assistant Knowledge
+
+The AI assistant can help patients:
+
+* Search doctors by disease, symptom, or specialization.
+* Find doctors by name.
+* View available appointment slots.
+* Book appointments.
+* Check appointment status.
+* Cancel appointments.
+* Answer questions about hospital departments, services, timings, facilities, and policies.
+
+The AI assistant must never invent appointment availability and should always retrieve doctor and appointment information from the hospital database.
+
+---
+
+# Frequently Asked Questions
+
+**Q: Can I book an appointment online?**
+
+Yes. Appointments can be booked through the AI assistant, hospital reception, or telephone.
+
+**Q: Is emergency service available at night?**
+
+Yes. Emergency services operate 24×7.
+
+**Q: Do I need a referral?**
+
+No. Patients may directly book appointments with specialists unless a specific department requires a referral.
+
+**Q: What should I bring for my first visit?**
+
+Bring your patient ID (if available), identification document, previous medical records, prescriptions, and insurance information.
+
+**Q: Can I cancel my appointment?**
+
+Yes. Appointments may be cancelled before the scheduled consultation, subject to hospital policy.
+
+**Q: Does the hospital provide diagnostic tests?**
+
+Yes. The hospital offers pathology, radiology, cardiac diagnostics, and preventive health screening services.
+
+---
+
+# Contact Summary
+
+Hospital Name: Sunrise Multispeciality Hospital
+
+Location: Gomti Nagar, Lucknow, Uttar Pradesh, India
+
+Emergency: 24×7
+
+Pharmacy: 24×7
+
+Laboratory: 24×7
+
+OPD: Monday–Saturday 9:00 AM–7:00 PM; Sunday 9:00 AM–2:00 PM
+
+Specialties: General Medicine, Cardiology, Orthopedics, Neurology, Dermatology, Pediatrics, Gynecology, ENT, Ophthalmology, Psychiatry, and Dentistry.
+
+The hospital's objective is to provide safe, affordable, evidence-based, and compassionate healthcare while leveraging modern technology and an AI-powered appointment system to improve patient experience.
