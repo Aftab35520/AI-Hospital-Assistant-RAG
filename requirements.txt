@@ -9,3 +9,4 @@ rapidfuzz
 flask
 python-dotenv
 gunicorn 
+flask_cors
